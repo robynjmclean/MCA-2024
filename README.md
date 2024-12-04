@@ -38,3 +38,20 @@ including the time stamp being exact. The place that the OMR mahcine struggles w
 example of musescore being a great tool for transcribing basic pieces, perhaps with simple melodies and a very clear and vibrant score sheet, however when it comes to more complex pieces the machine fails to keep up. It is therefor fair to say that although technology can 
 be a great tool in music it cannot deliver the precise accuracy and attention to detail that the human eye provides. This would aid the view that as technology progresses and some may fear it will replace human labour, it is not at the level yet where this is a possibility right now. Coincidingly, this highlights 
 that human and personal input into music in general is a key element of what makes music, music. Not only interms of transcribing oler pieces to restore or manipulate in modern use, but in general that music is a product of human creation from inspiration, therefor being purely machine produced is not the way forward and instead focus on keeping it machine aided.
+
+<h2>Screenshot and link to my edited score</h2>
+
+[link]https://github.com/robynjmclean/MCA-2024/blob/master/summer_nights_github_music.mscz
+
+![musescore_edited_week2](https://github.com/user-attachments/assets/b6faeacf-18a2-419b-9ca1-74ee09692f55)
+
+<h1>Week 3</h1>
+
+After comparing and contrasting the music.xml and the MEI rendered scores, there are a few differences including that music XML appears to be a lot more code, interms of individual tags, where as the MEI file is more compressed and concise. Further, the MEI file is much easier to look at in terms of being able to identify indivdual elements and attributes, however XML uses words that are recogniseable, such as pitch, whereas MEI uses its own sort of language for this so therefor is not as understandable at first glance nor universal in the language it uses. For example, mei uses tags such as "mei-head" as its metadata tag which is its own
+language making it perhaps less convertable or generic in temrs of general language used to describe its parent and child elements. Music.XML uses more descriptive tags, such as the full word to describe the data to follow including "direction" and "harmony", whereas MEI uses the terms in a shortened manner, 
+such as "dir" and "harm". This again contributes to the MEI file being less readable or easy to understand at first glance than the music.xml file. 
+Finally, a simple feature that is different between the two files is the root element tag they each use, the music.xml uses "score-partwise" whereas the mei uses "mei", both do the same role in each of the files, however again the music xml is perhaps a more recognised format compared to the mei which seems to exist in its own sort of world, using specific and unique tags to mark the data to follow.
+
+
+
+
