@@ -110,7 +110,7 @@ Publisher: Publisher of file
 
 Edited Mei file
 
-Link to edited mei file:
+Link to edited mei file: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_week5.mei
 ![week5_mei](https://github.com/user-attachments/assets/0fa49a84-9985-4969-9b1d-2f710165506d)
 
 
