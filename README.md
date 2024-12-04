@@ -117,7 +117,7 @@ Link to edited mei file: https://github.com/robynjmclean/MCA-2024/blob/master/da
 
 <h2>Task 1</h2>
 
-Link to updated meil file:
+Link to updated meil file: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_week7.mei
 ![image](https://github.com/user-attachments/assets/2465dca4-e641-4e20-8c2a-d6840766eb67)
 
 
