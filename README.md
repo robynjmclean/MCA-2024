@@ -41,7 +41,7 @@ that human and personal input into music in general is a key element of what mak
 
 <h2>Screenshot and link to my edited score</h2>
 
-[link]https://github.com/robynjmclean/MCA-2024/blob/master/summer_nights_github_music.mscz
+link to musescore document https://github.com/robynjmclean/MCA-2024/blob/master/summer_nights_github_music.mscz
 
 ![musescore_edited_week2](https://github.com/user-attachments/assets/b6faeacf-18a2-419b-9ca1-74ee09692f55)
 
@@ -53,6 +53,13 @@ such as "dir" and "harm". This again contributes to the MEI file being less read
 Finally, a simple feature that is different between the two files is the root element tag they each use, the music.xml uses "score-partwise" whereas the mei uses "mei", both do the same role in each of the files, however again the music xml is perhaps a more recognised format compared to the mei which seems to exist in its own sort of world, using specific and unique tags to mark the data to follow.
 
 <h1>Mei score</h1>
+
+<h2>Task 1</h2>
+
+link to xml documnet:
+link to mei document:
+
+<h2>Task 2</h2>
 
 https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music.mei
 
