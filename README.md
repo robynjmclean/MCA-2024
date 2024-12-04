@@ -52,6 +52,10 @@ language making it perhaps less convertable or generic in temrs of general langu
 such as "dir" and "harm". This again contributes to the MEI file being less readable or easy to understand at first glance than the music.xml file. 
 Finally, a simple feature that is different between the two files is the root element tag they each use, the music.xml uses "score-partwise" whereas the mei uses "mei", both do the same role in each of the files, however again the music xml is perhaps a more recognised format compared to the mei which seems to exist in its own sort of world, using specific and unique tags to mark the data to follow.
 
+<h1>Mei score</h1>
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music.mei
+
 
 
 
