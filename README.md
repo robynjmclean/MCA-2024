@@ -66,6 +66,38 @@ https://www.verovio.org/mei-viewer.xhtml?musicxml=true&local=true
 
 https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music.mei
 
+<h1>Week 4</h1>
+
+<h2>Task 1</h2>
+
+Range: 36
+
+Mean Pitch: 67
+
+Most Common Pitch Class: 4
+
+Last Pitch: 62
+
+Most Common Rhythmic Value: 0.5
+
+<h2>Task 2</h2>
+
+Piano Roll
+
+![piano-roll](https://github.com/user-attachments/assets/2017d539-70bb-4144-9bd1-4ed8761ab97a)
+
+Scatter Plot
+
+![scatter-plot](https://github.com/user-attachments/assets/5738e216-ff92-440c-b07f-8c86f8ad6920)
+
+Pitch Histogram
+
+![scatter-plot](https://github.com/user-attachments/assets/27ae0d77-a4c3-4087-b2fc-2dc89fde9f3c)
+
+
+
+
+
 
 
 
