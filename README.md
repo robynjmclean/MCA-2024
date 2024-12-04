@@ -96,6 +96,25 @@ Pitch Histogram
 
 ![scatter-plot](https://github.com/user-attachments/assets/27ae0d77-a4c3-4087-b2fc-2dc89fde9f3c)
 
+<h1>Week 5</h1>
+
+<h2>Task 1</h2>
+
+Title: Name of piece
+Date: Date it was published
+Lyricist: Who performed piece
+Composer: Creaator of original work
+Publisher: Publisher of file
+
+<h2>Task 2</h2>
+
+Edited Mei file
+
+Link to edited mei file:
+![week5_mei](https://github.com/user-attachments/assets/0fa49a84-9985-4969-9b1d-2f710165506d)
+
+
+
 
 
 
