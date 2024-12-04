@@ -80,6 +80,8 @@ Last Pitch: 62
 
 Most Common Rhythmic Value: 0.5
 
+link to csv spreadsheet; https://github.com/robynjmclean/MCA-2024/blob/master/data/definitions_summer_nights_vsf_jsymbolic.csv
+
 <h2>Task 2</h2>
 
 Piano Roll
