@@ -57,9 +57,12 @@ Finally, a simple feature that is different between the two files is the root el
 <h2>Task 1</h2>
 
 link to xml document: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music.musicxml
+
 link to mei document: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music.mei
 
 <h2>Task 2</h2>
+
+https://www.verovio.org/mei-viewer.xhtml?musicxml=true&local=true
 
 https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music.mei
 
