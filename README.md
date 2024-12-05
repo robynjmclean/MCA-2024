@@ -258,10 +258,43 @@ Grease
 
 ![week9-grease](https://github.com/user-attachments/assets/50535642-a63d-428d-bb50-8fd6007951be)
 
+<h2>Task 2</h2>
+
+Histogram of MFCCs
+
+
+![greasemfccdownload](https://github.com/user-attachments/assets/089b6dab-0034-48be-ba36-d4b8205705ce)
+
+![hdty-mfccdownload](https://github.com/user-attachments/assets/106b334d-2a1b-42b2-8738-df1fb4ecab21)
+
+![lightnin-mfccdownload](https://github.com/user-attachments/assets/f4a921fa-2f10-4ad0-92f2-33314cde31c7)
+
+Histogram of Spectograms
+
+
+![grease-spect download](https://github.com/user-attachments/assets/6e4a6bba-27e2-4bbb-ae08-1c151200c771)
+
+![hdty-spect](https://github.com/user-attachments/assets/96f2c978-c476-4278-bf90-066dab21ab18)
+
+![lightning-spect](https://github.com/user-attachments/assets/11c7498a-946b-4e52-9de9-72306fcc6e1a)
+
+Histogram of Chromagrams
+
+
+![grease-chromadownload](https://github.com/user-attachments/assets/7dc30ceb-ad16-4a22-8abc-085d71481fff)
+
+
+![hdty-chromadownload](https://github.com/user-attachments/assets/0126bc6d-5b92-483d-bbe0-b965167030d5)
+
+
+![lightnin-chroma](https://github.com/user-attachments/assets/4b302167-5a9f-4ba0-be0c-199838216442)
 
 
 
 
+
+When comparing the mfcc of the three tracks, they vary in terms of the x axis and the y axis in my opinion. This can be seen when looking at the hopelessly devoted mfcc track compared to the grease lightnin' mfcc track in box 12, where it can be seen that the hopelessly devoted to you track spans from -1 to 1 across the x axis, whereas the greased lightnin tracks only spans from aroun -0.5 to just before 1 on the x axis.
+Furthermore when comparing the grease mfcc to the hopelessly devoted to you mfcc, it can be seen in box 15 that in teh grease track mfcc there is a steeper decline across the y axis, compared to the box 15 in the hopelessly devoted to you track that shows a steeper incline compared to decline across the y axis.
 
 
 
