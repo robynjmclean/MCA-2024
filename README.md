@@ -125,11 +125,11 @@ Justification: [I chose to use  CCO 1.0 as the licensing for my work because I h
     who chooses to use or sample my piece is not at risk of copyrighting myself, which could have both cost consequences as well as public image, therefore the avoidmnet of this in this particular case is what I believe to be best suited.
 
 
-Link to updated mei file: https://robynjmclean.github.io/MCA-2024/metaRAW.hmtl
+Link to updated mei file: 
 
 Rendered mei file in verovio: 
 
-Link to editer verovio mei file: https://github.com/robynjmclean/MCA-2024/blob/master/metaRAW.html
+Link to edited verovio mei file: robynjmclean/MCA-2024/metaRAW.html
 ![image](https://github.com/user-attachments/assets/e9c2cadb-3479-4edf-ab80-dcb8aebe7065)
 
 
