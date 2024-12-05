@@ -132,6 +132,55 @@ Rendered mei file in verovio:
 Link to edited verovio mei file: https://robynjmclean.github.io/MCA-2024/metaRAW.html
 ![image](https://github.com/user-attachments/assets/e9c2cadb-3479-4edf-ab80-dcb8aebe7065)
 
+<h1>Week 8</h1>
+
+<h2>Task 1</h2>
+
+
+Track 1:
+
+Title: Greased Lightnin'
+Artist: John Travolta and Jeff Conaway
+Composer: Jim Jacobs and Warren Casey
+Copyright Info: CC-BY-SA
+Genre: Rock and Roll
+Source: Internet Archive
+File/audio format: mp3
+Number of Channels: 2
+Sample Rate: 44100Hz
+Bits per second: 194kbps
+Duration: 00:03:14
+
+Track 2:
+
+Title: Hopelessly Devoted to You
+Artist: Olivia Newton John
+Composer: John Farrar
+Copyright Info: CC-BY-SA, Warner/ Chappell Music Inc.
+Genre: Pop, Rock, Stage and Screen
+Source: Internet Archive
+File/audio format: mp3
+Number of Channels: 2
+Sample Rate: 44100Hz
+Bits per second: 183kbps
+Duration: 00:03:05
+
+Track 3:
+
+Title: Grease
+Artist: Frankie Vlli
+Composer: Barry Gibb
+Copyright Info: CC-BY-SA
+Genre: Funk, Disco, Pop
+Source: Internet Archive
+File/audio format: mp3
+Number of Channels: 2
+Sample Rate: 44100Hz
+Bits per second: 192kbps
+Duration: 00:03:25
+
+
+
 
 
 
