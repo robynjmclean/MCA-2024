@@ -165,30 +165,52 @@ Duration: 00:03:14
 Track 2:
 
 Title: Hopelessly Devoted to You
+
 Artist: Olivia Newton John
+
 Composer: John Farrar
+
 Copyright Info: CC-BY-SA, Warner/ Chappell Music Inc.
+
 Genre: Pop, Rock, Stage and Screen
+
 Source: Internet Archive
+
 File/audio format: mp3
+
 Number of Channels: 2
+
 Sample Rate: 44100Hz
+
 Bits per second: 183kbps
+
 Duration: 00:03:05
+
 
 Track 3:
 
 Title: Grease
-Artist: Frankie Vlli
+
+Artist: Frankie Valli
+
 Composer: Barry Gibb
+
 Copyright Info: CC-BY-SA
+
 Genre: Funk, Disco, Pop
+
 Source: Internet Archive
+
 File/audio format: mp3
+
 Number of Channels: 2
+
 Sample Rate: 44100Hz
+
 Bits per second: 192kbps
+
 Duration: 00:03:25
+
 
 
 
