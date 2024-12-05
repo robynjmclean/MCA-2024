@@ -211,7 +211,35 @@ Bits per second: 192kbps
 
 Duration: 00:03:25
 
+<h1>Task 2</h1>
 <h2>Waveform and Spectogram Analysis</h2>
+
+Waveform analysis for Hopelessly devoted to you 
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/8hdtywaveform.png
+
+Spectogram analysis for Hopelessly Devoted to you 
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/8hdtyspectogram.png
+
+Waveform analysis for Greased Lightnin'
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/8lightnin-waveform.png
+
+Spectogram analysis for Greased Lightnin'
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/8lightnin-spectogram.png
+
+Waveform analysis for Grease
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/8grease-waveform.png
+
+Spectogram analysis for Grease
+
+https://github.com/robynjmclean/MCA-2024/blob/master/data/8grease-spectogram.png
+
+
+
 
 
 
