@@ -126,7 +126,10 @@ Justification: [I chose to use  CCO 1.0 as the licensing for my work because I h
 
 
 Link to updated meil file: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_week7.mei
-![image](https://github.com/user-attachments/assets/2465dca4-e641-4e20-8c2a-d6840766eb67)
+
+Rendered mei file in verovio: 
+![image](https://github.com/user-attachments/assets/e9c2cadb-3479-4edf-ab80-dcb8aebe7065)
+
 
 
 
