@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+   <meiHead xml:id="m1sck4jx">
+      <fileDesc xml:id="fbc0ixs">
+         <titleStmt xml:id="t2fem9s">
+            <title auth.uri="https://www.wikidata.org/wiki/Q7637383" auth="wikidata">Summer Nights</title>
+            <composer auth.uri="http://id.loc.gov/authorities/names/no2019099424" auth="Library of Congress">Jim Jacobs and Warren Casey</composer>
+            <lyricist auth.uri="https://www.wikidata.org/wiki/Q7637383" aith="wikidata">Olivia Newton-John and John Travolta</lyricist>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="pn8r8pf">
+            <publisher auth.uri="https://www.wikidata.org/wiki/Q7637383" auth="wikidata">RSO</publisher>
+            <useRestrict auth.uri="https://chooser-beta.creativecommons.org" auth="creative commons">MCA Summer Nights is marked wih CC0 1.0 </useRestrict>
+         </pubStmt>
+         <noteStmt>
+            <annot>Genre classification: Rock, Pop</annot>
+         </noteStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp>
+                     <staffGrp>
+                        <staffGrp bar.thru="true">
+                           <label>Piano</label>
+                           <instrDef midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                           <staffDef n="1" lines="5" ppq="4" clef.shape="G" clef.line="2" keysig="0" />
+                           <staffDef n="2" lines="5" ppq="4" clef.shape="F" clef.line="4" keysig="0" />
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <pb />
+                  <measure n="1">
+                     <staff n="1">
+                        <layer n="1">
+                           <rest dur="4" />
+                           <beam>
+                              <note dur="8" oct="4" pname="a" stem.dir="up" />
+                              <note dur="8" oct="4" pname="b" stem.dir="up" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="a" stem.dir="down" />
+                           </beam>
+                           <rest dur="4" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <mRest />
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="4.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="2">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="nw4hn2c" dots="1" dur="2" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie startid="#nw4hn2c" endid="#n1e5hjb0" />
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="3">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note xml:id="n1e5hjb0" dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="a" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="4">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <note xml:id="n1xfl2de" dur="2" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie startid="#n1xfl2de" endid="#n17svhnx" />
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="5">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note xml:id="n17svhnx" dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="a" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                  </measure>
+                  <sb />
+                  <measure n="6">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" oct="5" pname="a" stem.dir="down" />
+                           <note dots="1" dur="4" oct="5" pname="g" stem.dir="down" />
+                           <note dur="8" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="7">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="32" oct="5" pname="g" grace="acc" stem.dir="up" />
+                              <note dur="32" oct="5" pname="e" grace="acc" stem.dir="up" />
+                           </beam>
+                           <note dur="4" oct="5" pname="d" stem.dir="down" />
+                           <note dots="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note dur="8" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="8">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="n1ih8jas" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <beam>
+                              <note xml:id="n6hvexo" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note dur="16" oct="5" pname="d" stem.dir="down" />
+                              <note dur="16" oct="5" pname="c" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie startid="#n1ih8jas" endid="#n6hvexo" />
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="9">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" oct="4" pname="b" stem.dir="down" />
+                           <beam>
+                              <note dur="8" oct="4" pname="a" stem.dir="up" />
+                              <note dur="8" oct="4" pname="b" stem.dir="up" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="a" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="10">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="n175zeuw" dots="1" dur="2" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie startid="#n175zeuw" endid="#niojrhc" />
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" />
+                  </measure>
+                  <sb />
+                  <measure n="11">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note xml:id="niojrhc" dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="a" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="12">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <note xml:id="n1701hf8" dur="2" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie startid="#n1701hf8" endid="#n4252nq" />
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                  </measure>
+                  <measure n="13">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note xml:id="n4252nq" dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="a" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="14">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" oct="5" pname="a" stem.dir="down" />
+                           <note dots="1" dur="4" oct="5" pname="g" stem.dir="down" />
+                           <note dur="8" oct="5" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="15">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dur="4" oct="5" pname="d" stem.dir="down" />
+                           <note dots="1" dur="4" oct="5" pname="c" stem.dir="down" />
+                           <note dur="8" oct="4" pname="a" stem.dir="up" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" />
+                  </measure>
+                  <sb />
+                  <measure n="16">
+                     <staff n="1">
+                        <layer n="1">
+                           <note xml:id="n1d7lu9u" dur="2" oct="5" pname="c" stem.dir="down" />
+                           <beam>
+                              <note xml:id="nu2ouqd" dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note dur="16" oct="5" pname="d" stem.dir="down" />
+                              <note dur="16" oct="5" pname="c" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <tie startid="#n1d7lu9u" endid="#nu2ouqd" />
+                     <pedal staff="2" tstamp="1" dir="down" form="line" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="17">
+                     <staff n="1">
+                        <layer n="1">
+                           <note dots="1" dur="2" oct="4" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="18">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="19">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="6" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="20">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" />
+                  </measure>
+                  <sb />
+                  <measure n="21">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="6" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="6" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="22">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                  </measure>
+                  <measure n="23">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="6" pname="d" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="24">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="25">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="c" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="5" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" />
+                  </measure>
+                  <sb />
+                  <measure n="26">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="27">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="6" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="28">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="6" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="29">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="6" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="6" pname="e" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="g" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="4" pname="c" stem.dir="down" />
+                              <note dur="8" oct="4" pname="e" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="30">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" />
+                  </measure>
+                  <pb />
+                  <measure n="31">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="6" pname="c" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                           <note dur="4" oct="5" pname="b" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down">
+                                 <accid accid="s" />
+                              </note>
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" />
+                     <pedal staff="2" tstamp="3.9" dir="up" form="line" place="below" />
+                  </measure>
+                  <measure n="32">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                              <note dur="8" oct="5" pname="a" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="f" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <pedal staff="2" tstamp="1" dir="down" form="line" place="below" />
+                  </measure>
+                  <measure right="end" n="33">
+                     <staff n="1">
+                        <layer n="1">
+                           <beam>
+                              <note dur="8" oct="5" pname="g" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                              <note dur="8" oct="5" pname="c" stem.dir="down" />
+                              <note dur="8" oct="5" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="5" pname="e" stem.dir="down" />
+                              <note dur="8" oct="5" pname="c" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer n="5">
+                           <beam>
+                              <note xml:id="nts545f" dur="8" oct="3" pname="f" stem.dir="down" />
+                              <note xml:id="nxlwtgx" dur="8" oct="4" pname="d" stem.dir="down" />
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                           <beam>
+                              <note dur="8" oct="3" pname="a" stem.dir="down" />
+                              <note dur="8" oct="4" pname="d" stem.dir="down" />
+                           </beam>
+                        </layer>
+                     </staff>
+                     <slur startid="#nts545f" endid="#nxlwtgx" curvedir="below" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
