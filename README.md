@@ -129,7 +129,7 @@ Link to updated mei file:
 
 Rendered mei file in verovio: 
 
-Link to edited verovio mei file: https://robynjmclean/MCA-2024/metaRAW.html
+Link to edited verovio mei file: https://robynjmclean.github.io/MCA-2024/metaRAW.html
 ![image](https://github.com/user-attachments/assets/e9c2cadb-3479-4edf-ab80-dcb8aebe7065)
 
 
