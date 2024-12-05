@@ -117,6 +117,14 @@ Link to edited mei file: https://github.com/robynjmclean/MCA-2024/blob/master/da
 
 <h2>Task 1</h2>
 
+Justification: [I chose to use  CCO 1.0 as the licensing for my work because I have created the file as an art proect, for educational purposes therefore I feel that with these intentions this is the licensing that best alligns. CCO 1.0 is a good licensing to choose for pieces that I do not necesssarily care about
+     receiving attribution whenever the work is sampled, therefore making it easier for both parties in the sense that if someone were to sample my work they wouldnt need to request permission, and likewise I wouldnt have to grant the permission which can be time saving and ost efficient for both parties. CCO 1.0 is 
+    also quite a universally understood license, therefore is easy to understand and well recognised unlike some more complicated licensing that would require a lot of action and knowledge to understand the entire meaning and necessary steps to acquire the piece for sampling which can be off putting for others.
+    Furthermore, CCO 1.0 allows for my work to be sampled in crative projects more wide spread as it is appealing for the reason of it belongs to the public domain. By allowing the public doman to take ownership of my work in this case this then provides opportunity for creativity and and opennes to flourish in 
+    the community. This is in essence of supporrting this idea of providing resources that are available to everyone for the purpose of fueling knowledge and artistic advances. Finally, another good reason for choosing to use this licensing is that there is no risk of copyright infringement, in the sense that someone 
+    who chooses to use or sample my piece is not at risk of copyrighting myself, which could have both cost consequences as well as public image, therefore the avoidmnet of this in this particular case is what I believe to be best suited.
+
+
 Link to updated meil file: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_week7.mei
 ![image](https://github.com/user-attachments/assets/2465dca4-e641-4e20-8c2a-d6840766eb67)
 
