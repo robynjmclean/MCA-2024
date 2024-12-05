@@ -125,7 +125,7 @@ Justification: [I chose to use  CCO 1.0 as the licensing for my work because I h
     who chooses to use or sample my piece is not at risk of copyrighting myself, which could have both cost consequences as well as public image, therefore the avoidmnet of this in this particular case is what I believe to be best suited.
 
 
-Link to updated mei file: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_week7.mei
+Link to updated mei file: https://robynjmclean.github.io/MCA-2024/metaRAW.hmtl
 
 Rendered mei file in verovio: 
 
