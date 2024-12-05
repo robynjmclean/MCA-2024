@@ -292,9 +292,13 @@ Histogram of Chromagrams
 
 
 
-
+<H2>Analysis</H2>
 When comparing the mfcc of the three tracks, they vary in terms of the x axis and the y axis in my opinion. This can be seen when looking at the hopelessly devoted mfcc track compared to the grease lightnin' mfcc track in box 12, where it can be seen that the hopelessly devoted to you track spans from -1 to 1 across the x axis, whereas the greased lightnin tracks only spans from aroun -0.5 to just before 1 on the x axis.
 Furthermore when comparing the grease mfcc to the hopelessly devoted to you mfcc, it can be seen in box 15 that in teh grease track mfcc there is a steeper decline across the y axis, compared to the box 15 in the hopelessly devoted to you track that shows a steeper incline compared to decline across the y axis.
+
+<h1>Week 10</h1>
+
+
 
 
 
