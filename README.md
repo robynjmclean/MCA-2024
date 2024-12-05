@@ -238,6 +238,9 @@ Spectogram analysis for Grease
 
 https://github.com/robynjmclean/MCA-2024/blob/master/data/8grease-spectogram.png
 
+Evaluation: After comparing the time frequency analysis to a waveform analysis there are some clear differences in the information that can be extracted from each.
+The first obvious advantage to a time frequency analysis is that it shows how a signal changes throughout the piece, showing the journey throughout the spectrum, whereas the waveform analysis can't show this progression. An attribute of the time frequency  analysis is that it is 2 dimensional, allowing it to show signal in time an frequency simultaneously, whereas a waveform analysis is one dimensional, meaning it shows this signal as intensity versus time instead. This is advantageous to the time frequency analysis because it allows for a deeper understanding of signal within the piece being studied.
+
 
 
 
