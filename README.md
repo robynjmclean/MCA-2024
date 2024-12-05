@@ -140,16 +140,27 @@ Link to edited verovio mei file: https://robynjmclean.github.io/MCA-2024/metaRAW
 Track 1:
 
 Title: Greased Lightnin'
+
 Artist: John Travolta and Jeff Conaway
+
 Composer: Jim Jacobs and Warren Casey
+
 Copyright Info: CC-BY-SA
+
 Genre: Rock and Roll
+
 Source: Internet Archive
+
 File/audio format: mp3
+
 Number of Channels: 2
+
 Sample Rate: 44100Hz
+
 Bits per second: 194kbps
+
 Duration: 00:03:14
+
 
 Track 2:
 
