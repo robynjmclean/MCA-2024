@@ -327,11 +327,17 @@ Furthermore when comparing the grease mfcc to the hopelessly devoted to you mfcc
 
 <h2>Task 2</h2>
 
-original image: 
+original image: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer_nights_github_music_original-1.png
+![image-1](https://github.com/user-attachments/assets/adb39b9a-f549-4ad0-bd20-0f92ed783be1)
 
-midi image: 
 
-When I put the polyphonic transcription back into muse score, the score was almost somewhat illegible as notes were no longer in the correct place making it very difficult for a musician to play this piece of music. Furthermore, it added in notes that weren't even therebefore, including rests which completely changes the way that the music is heard, practically creating a completely different track therefore reducing the liklihood of this being a useful way of notating music digitally. Notes appear on top of one another, above one another and just completely different to the original transcription from week 2. This in essence shows how files can lose their accuracy the more they are altered and exported during different processes of digital notation so although different kinds of information is being gathered, it may not be a reflection of the original score being worked with.
+
+
+midi image: https://github.com/robynjmclean/MCA-2024/blob/master/data/summer-nights-dec_messy.pdf
+![image-2](https://github.com/user-attachments/assets/4575fd2f-b404-4aeb-a402-9373ddcf3c60)
+
+
+When I put the polyphonic transcription back into muse score, the score was almost somewhat illegible as notes were no longer in the correct place making it very difficult for a musician to play this piece of music. Furthermore, it added in notes that weren't even therebefore, including rests which completely changes the way that the music is heard, practically creating a completely different track. Features such as a time signature has been added in which could somewhat show that it can add important missing information however, notes appear on top of one another, above one another and just completely different to the original transcription from week 2. This in essence shows how files can lose their accuracy the more they are altered and exported during different processes of digital notation so although different kinds of information is being gathered, it may not be a reflection of the original score being worked with.
 
 
 
