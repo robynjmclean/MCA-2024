@@ -325,6 +325,16 @@ Furthermore when comparing the grease mfcc to the hopelessly devoted to you mfcc
 
 <h1>Week 10</h1>
 
+<h2>Task 2</h2>
+
+original image: 
+
+midi image: 
+
+When I put the polyphonic transcription back into muse score, the score was almost somewhat illegible as notes were no longer in the correct place making it very difficult for a musician to play this piece of music. Furthermore, it added in notes that weren't even therebefore, including rests which completely changes the way that the music is heard, practically creating a completely different track therefore reducing the liklihood of this being a useful way of notating music digitally. Notes appear on top of one another, above one another and just completely different to the original transcription from week 2. This in essence shows how files can lose their accuracy the more they are altered and exported during different processes of digital notation so although different kinds of information is being gathered, it may not be a reflection of the original score being worked with.
+
+
+
 
 
 
