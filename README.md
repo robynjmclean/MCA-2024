@@ -1,6 +1,5 @@
 <h1>Music Analysis and Curation Portfolio</h1>
 
-https://github.com/robynjmclean/MCA-2024/tree/master/data
 
 <h1>Week 1</h1>
 
